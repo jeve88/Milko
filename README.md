@@ -1,10 +1,7 @@
 ## 1. Présensation de l'entreprise 
 
-Milko est une nouvelle marque commerciale de produits au chocolat. 
+Milko est une nouvelle marque commerciale de produits au chocolat. Elle dispose actuellement de 4 produits sur le marché qui sont vendus en grande surface dans l'hexagone.  
 
-<!-- ###	Activités principales
-###	Produits et services vendus
-###	Zone de chalandise
 ###	Avantage concurrentiel / positionnement par rapport à la concurrence -->
 
 ## 2. Présentation du projet 
