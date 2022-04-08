@@ -2,7 +2,7 @@
 
 Milko est une nouvelle marque commerciale de produits au chocolat. Elle dispose actuellement de 4 produits sur le marché qui sont vendus en grande surface dans l'hexagone.  
 
-###	Avantage concurrentiel / positionnement par rapport à la concurrence -->
+<!-- Avantage concurrentiel / positionnement par rapport à la concurrence  -->
 
 ## 2. Présentation du projet 
 
