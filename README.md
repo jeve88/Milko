@@ -19,7 +19,6 @@ b)	Date de mise en ligne prévisionnelle -->
 
 ## 3. Public visé 
 
-Le site Milko.fr vise deux types de public: 
 
 
 ## 4. Rôles utilisateurs
