@@ -1,17 +1,26 @@
-Milko, une nouvelle marque de chocolats (et biscuits) grand public souhaite lancer une campagne promotionnelle afin de fidéliser la clientèle existante et
-attirer de nouveaux clients. Pour ce faire, Milko souhaite mettre en place un site web
+## 1. Présensation de l'entreprise 
+
+Milko est une nouvelle marque commerciale de produits au chocolat. 
+
+###	Activités principales
+###	Produits et services vendus
+###	Zone de chalandise
+###	Avantage concurrentiel / positionnement par rapport à la concurrence
+
+## 2. Présentation du projet 
+
+A l'occasion des fêtes de Pâques 2022, l'entreprise souhaite mettre en place une campagne promotionnelle afin de fidéliser la clientèle existante et acquérir de nouveaux clients.
 
 
-## 1. Minimum Viable Product (MVP)
 
-## 2. Public visé 
+## . Public visé 
 
 Le site Milko.fr vise deux types de public: 
 
 
-## 3. Rôles utilisateurs
+## . Rôles utilisateurs
 
 
-## 4. Fonctionnalités 
+## . Fonctionnalités 
 
-## 5. User stories 
+## . User stories 
