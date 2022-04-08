@@ -17,14 +17,14 @@ b)	Date de mise en ligne prévisionnelle -->
 
 
 
-## . Public visé 
+## 3. Public visé 
 
 Le site Milko.fr vise deux types de public: 
 
 
-## . Rôles utilisateurs
+## 4. Rôles utilisateurs
 
 
-## . Fonctionnalités 
+## 5. Fonctionnalités 
 
-## . User stories 
+## 6. User stories 
