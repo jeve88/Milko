@@ -22,6 +22,6 @@ b)	Date de mise en ligne prévisionnelle -->
 
 
 ## 5. Fonctionnalités 
-
+...
 ## 6. User stories 
 ...
